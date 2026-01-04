@@ -13,7 +13,7 @@ namespace bookapi_minimal.AppContext
 
        // DbSet to represent the collection of books in our database
         public DbSet<BookModel> Books { get; set; }
-
+        public DbSet<User> Users { get; set; }
         // Constructor to configure the database context
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

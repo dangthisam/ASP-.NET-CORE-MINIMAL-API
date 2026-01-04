@@ -158,3 +158,5 @@ E:\PROJECTDOTNET\api\obj\Debug\net9.0\api.xml
 E:\PROJECTDOTNET\api\obj\Debug\net9.0\api.pdb
 E:\PROJECTDOTNET\api\obj\Debug\net9.0\api.genruntimeconfig.cache
 E:\PROJECTDOTNET\api\obj\Debug\net9.0\ref\api.dll
+E:\PROJECTDOTNET\api\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\PROJECTDOTNET\api\obj\Debug\net9.0\api.sourcelink.json
