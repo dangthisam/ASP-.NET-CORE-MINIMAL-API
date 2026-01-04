@@ -20,7 +20,11 @@ app.UseSwaggerUI();
 }   
 app.UseCors("AllowAll");
 app.UseHttpsRedirection();
+app.UseAuthentication();
+app.UseAuthorization();
 app.MapGroup("/api/v1")
    .MapBookEndPoint();
 
+app.MapGroup("/api/v1")
+   .MapUserEndpoints();
 app.Run();
