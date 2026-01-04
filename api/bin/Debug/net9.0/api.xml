@@ -16,5 +16,17 @@
         <member name="M:api.Migrations.InitialCrete.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
             <inheritdoc />
         </member>
+        <member name="T:api.Migrations.AddtableUser">
+            <inheritdoc />
+        </member>
+        <member name="M:api.Migrations.AddtableUser.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:api.Migrations.AddtableUser.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:api.Migrations.AddtableUser.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
     </members>
 </doc>
